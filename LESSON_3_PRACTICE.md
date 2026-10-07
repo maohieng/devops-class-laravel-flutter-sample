@@ -24,7 +24,7 @@ git clone YOUR-HTTPS-OR-SSH-GITHUB-URL
   
 For example, if your task is `commit.txt`:
 ```sh
-git switch -c feature/YOUR-NAME-commit
+git switch -c feature/commit
 ```
 
 ### 4. Create your **task file**
